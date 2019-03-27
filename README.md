@@ -13,9 +13,15 @@ The project is part of Andrei Neagoie's Junior to Senior course on Udemy and wil
   * https://www.webpagetest.org/
 
 <b>Test Results Before:</b>
+![Before Lighthouse Test](./Readme_img/lighthouse_before.png)
 
+![Before Web Page Test](./Readme_img/wpt_before.png)
 
 <b>Test Results After:</b>
+
+![After Lighthouse Test](./Readme_img/lighthouse_after.png)
+
+![After Web Page Test](./Readme_img/wpt_after.png)
 
 
 
